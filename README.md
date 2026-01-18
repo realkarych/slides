@@ -13,18 +13,11 @@
 🧬 Доклад про внедрение AI в инженерные команды, основанный на личном опыте. Рассказываю про продуктовые и технические проблемы,
 структурирую этапы внедрения от второго пилота до пайплайнов, решающих задачи End2End на примере ETL фреймворка Logos.
 
-📄 **[Слайды (PDF)](2025-06-03_SPbPython_testing-migrations/slides.pdf)**
+📄 **[Слайды (PDF)](2026-01-21_SPbPython_HowToPrepareToLLMActiveCoding/slides.pdf)**
 
 🔗 **Материалы:**
 
-- [Seqwall](https://github.com/realkarych/seqwall) — Production-ready имплементация Staircase-теста
-- [SQLFluff](https://github.com/sqlfluff/sqlfluff) — SQL-линтер с поддержкой Jinja и DB-специфичных диалектов
-- [Sqruff](https://github.com/quarylabs/sqruff) — быстрый SQL-линтер на Rust
-- [Greenmask](https://www.greenmask.io/) — инструмент для сэмплирования, маскирования, обфускации, генерации данных в тестовых БД
-- [Faker](https://github.com/joke2k/faker) — генератор фейковых данных (имён, адресов, компаний и др.)
-- [Hypothesis](https://github.com/HypothesisWorks/hypothesis) — property-based тестирование на Python
-- [Postmortem Culture](https://sre.google/workbook/postmortem-culture/) — культура анализа инцидентов без поиска виноватых (SRE)
-- [ISO/IEC 9075-11:2023](https://www.iso.org/standard/76586.html) — `INFORMATION_SCHEMA`
+- [Logos](https://www.youtube.com/watch?v=enjli04prNI) — ETL-фреймворк для регуляризации дата-пайплайнов поверх [YTsaurus](https://ytsaurus.tech)
 
 ---
 
