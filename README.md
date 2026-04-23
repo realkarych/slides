@@ -21,7 +21,7 @@
 
 📄 **[Слайды (PDF)](2026-02-28_ITMO_AI-engineering-intro/slides.pdf)**
 
-🎥 **Запись (YouTube)**: *будет опубликована позже*
+🎥 **[Запись (YouTube)](https://youtu.be/BazCU5Nxsws)**
 
 ---
 
